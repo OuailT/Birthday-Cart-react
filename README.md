@@ -1,4 +1,4 @@
-Birthday Cards with a modern design using React
+Birthday reminder Card with a modern design using React
 
 Usage
 # Install dependencies
